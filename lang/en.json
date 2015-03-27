@@ -119,7 +119,8 @@
     "mutedtime": "/me [@%%NAME%%] Muted @%%USERNAME%% for %%TIME%% minutes.",
     "unmuted": "/me [@%%NAME%%] Unmuted @%%USERNAME%%.",
     "muterank": "/me [@%%NAME%%] You can't mute persons with an equal or higher rank than you.",
-    "oplist": "/me OP list: %%LINK%%",
+    "oplist": "/me OP list: http://goo.gl/ys3ZyC",
+    "server": "/me Server IP: play.ares-network.net
     "pong": "/me Pong!",
     "reload": "/me Be right back.",
     "removenotinwl": "/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
@@ -139,7 +140,7 @@
     "unmuterank": "/me [@%%NAME%%] You can't unmute persons with an equal or higher rank than you.",
     "commandscd": "/me [@%%NAME%%] The cooldown for commands by users is now set to %%TIME%% seconds.",
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w/m): %%RATIO%%.",
-    "website": "/me Please visit our website: %%LINK%%",
+    "website": "/me Please visit our website: http://ares-network.net",
     "youtube": "/me [%%NAME%%] Subscribe to us on youtube: %%LINK%%",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
 }
